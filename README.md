@@ -2,3 +2,4 @@ Sumber Code : https://www.kaggle.com/ssushmitha41/multi-linear-regression-to-pre
 Sumber Dataset : https://www.kaggle.com/maitree/wine-quality-selection
 
 # tugas1BigData
+# Multi Linear Regression
